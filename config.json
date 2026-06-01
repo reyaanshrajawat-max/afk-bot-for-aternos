@@ -1,5 +1,6 @@
 {
-	"ip":"yourip.aternos.me",
-	"port": "25565",
+	"ip":"WATER-SMP-AAM.aternos.me",
+
+	"port": "18564",
 	"name": "afk_bot"
 }
